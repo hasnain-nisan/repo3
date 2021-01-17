@@ -1,0 +1,5 @@
+I am getting used to git stash concept.
+
+Without commit or stash one can not jump into different branch.
+
+To make a stash just tpye git stash, To get back the stach state type "git stash pop"
